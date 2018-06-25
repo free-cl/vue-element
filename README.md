@@ -27,4 +27,5 @@
 └── package.json               // package.json
 
 gitflow工作流
+gitlab ci
 ```
